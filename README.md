@@ -11,13 +11,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+memo:
+LF is "  "(double space)
+
 -->
 
-👋 Hi, I'm Tamaron.
-🎓 I'm a student at Kyoto University.
-🌱 I'm currently learning operating system.
-🚗 My hobby is game dev, making emulators, and low-level programming. 
-🤔 I'm looking for someone who studies OS with me.
-🌴 Feel free to talk to me !
+
+👋 Hi, I'm Tamaron.  
+  
+🎓 I'm a student at Kyoto University.  
+🌱 I'm currently learning operating system.  
+🚗 My hobby is game dev, making emulators, and low-level programming.   
+🤔 I'm looking for someone who studies OS with me.  
+🌴 Feel free to talk to me !  
 
 
