@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tamaroning/tamaroning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I'm Tamaron.
+🎓 I'm a student at Kyoto University.
+🌱 I'm currently learning operating system.
+🚗 My hobby is game dev, making emulators, and low-level programming. 
+🤔 I'm looking for someone who studies OS with me.
+🌴 Feel free to talk to me !
+
+
