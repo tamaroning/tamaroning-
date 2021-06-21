@@ -26,5 +26,5 @@ LF is "  "(double space)
 🤔 I'm looking for someone who studies OS with me.  
 🌴 Feel free to talk to me !  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaroning)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaroning&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
