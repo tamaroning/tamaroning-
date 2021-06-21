@@ -23,8 +23,6 @@ LF is "  "(double space)
 🎓 I'm a student at Kyoto University.  
 🌱 I'm currently learning operating system.  
 🚗 My hobby is game dev, making emulators, and low-level programming.   
-🤔 I'm looking for someone who studies OS with me.  
-🌴 Feel free to talk to me !  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaroning&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
