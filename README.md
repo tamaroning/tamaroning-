@@ -18,8 +18,8 @@ LF is "  "(double space)
 -->
 
 # Whoisme
-<p align="right">
-  <img src="https://tamaroning.github.io/icon-600px.png" width="300" title="icon">
+<p align="left">
+  <img src="https://tamaroning.github.io/icon-600px.png" width="250" title="icon">
 </p>
 
 **Tamaron**  
