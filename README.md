@@ -17,12 +17,18 @@ LF is "  "(double space)
 
 -->
 
+# Whoisme
+**Tamaron** 
+Freshman at Kyoto Univ.  
 
-👋 Hi, I'm Tamaron.  
-  
-🎓 I'm a student at Kyoto University.  
-🌱 I'm currently learning operating system.  
-🚗 My hobby is game dev, making emulators, and low-level programming.   
+# I am interested in...
+Low-level programming such as OSs, compilers, and emulators  
+Security and CTF(pwn)  
+
+# Catch up
+I'm making C compiler written in Rust lang.  
+Visit https://github.com/tamaroning/ccr !
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaroning&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
