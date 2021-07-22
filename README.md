@@ -22,7 +22,7 @@ LF is "  "(double space)
   <img src="https://tamaroning.github.io/icon-600px.png" width="250" title="icon">
 </p>
 
-<span style="font-size: 200%;">Tamaron</span> 
+<span style="font-size: 200%;">My name is Tamaron.</span> 
 
 Freshman at Kyoto Univ.  
 
