@@ -18,6 +18,9 @@ LF is "  "(double space)
 -->
 
 # Whoisme
+<p align="center">
+  <img src="https://tamaroning.github.io/icon-600px.png" width="300" title="icon">
+</p>
 **Tamaron** 
 Freshman at Kyoto Univ.  
 
@@ -27,7 +30,8 @@ Security and CTF(pwn)
 
 # Catch up
 I'm making C compiler written in Rust lang.  
-Visit https://github.com/tamaroning/ccr !
+Visit my repository!: https://github.com/tamaroning/ccr  
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaroning&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
