@@ -35,6 +35,6 @@ I'm making C compiler written in Rust lang.
 Visit my repository!: https://github.com/tamaroning/ccr  
 
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaroning&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
