@@ -18,10 +18,12 @@ LF is "  "(double space)
 -->
 
 # Whoisme
-<p align="center">
+<p align="right">
   <img src="https://tamaroning.github.io/icon-600px.png" width="300" title="icon">
 </p>
-**Tamaron** 
+
+**Tamaron**  
+
 Freshman at Kyoto Univ.  
 
 # I am interested in...
