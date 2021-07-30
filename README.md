@@ -17,7 +17,7 @@ LF is "  "(double space)
 
 -->
 
-# Whoisme
+# About me
 <p align="left">
   <img src="https://tamaroning.github.io/img/icon-600px.png" width="250" title="icon">
 </p>
