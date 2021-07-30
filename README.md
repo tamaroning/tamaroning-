@@ -24,7 +24,7 @@ LF is "  "(double space)
 
 <span style="font-size: 200%;">My name is Tamaron.</span> 
 
-Freshman at Kyoto Univ.  
+CS student at Kyoto Univ. (2021 April ~ now)  
 
 # I am interested in...
 Low-level programming such as OSs, compilers, and emulators  
