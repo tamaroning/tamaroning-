@@ -34,7 +34,7 @@ vulnerabilities, security, and CTF(pwnable)
 PERVERSE, beautiful pazzle game, https://github.com/tamaroning/PERVERSE  
 
 # Catch up
-I'm making C compiler written in Rust lang.  
+I'm making a C compiler written in Rust lang.  
 Visit my repository!: https://github.com/tamaroning/ccr  
 
 
