@@ -18,17 +18,19 @@ LF is "  "(double space)
 -->
 
 # About me
+<!--
 <p align="left">
   <img src="https://tamaroning.github.io/img/icon-600px.png" width="250" title="icon">
 </p>
+-->
 
-<span style="font-size: 200%;">My name is Tamaron.</span> 
+<span style="font-size: 200%;">I'm Tamaron.</span> 
 
 CS student at Kyoto Univ. (2021 April ~ now)  
 
 # I am interested in...
 Low-level programming, OS, compilers, emulators,  
-vulnerabilities, security, and CTF(pwnable)  
+malwares, and pwnable  
 
 # Works
 PERVERSE, beautiful pazzle game, https://github.com/tamaroning/PERVERSE  
