@@ -32,6 +32,10 @@ CS student at Kyoto Univ. (April,2021 ~ now)
 Low-level programming, OSes, compilers, emulators,  
 malware analysis, and pwnable  
 
+# Skills
+Rust, C, C++, C#(Unity), PHP,  
+Python, Assembly etc.
+
 # Works
 PERVERSE, beautiful pazzle game, https://github.com/tamaroning/PERVERSE  
 
