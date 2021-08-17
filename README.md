@@ -29,8 +29,8 @@ LF is "  "(double space)
 CS student at Kyoto Univ. (April,2021 ~ now)  
 
 # I am interested in...
-Low-level programming, OS, compilers, emulators,  
-malwares, and pwnable  
+Low-level programming, OSes, compilers, emulators,  
+malware analysis, and pwnable  
 
 # Works
 PERVERSE, beautiful pazzle game, https://github.com/tamaroning/PERVERSE  
