@@ -29,12 +29,14 @@ LF is "  "(double space)
 CS student at Kyoto Univ. (April,2021 ~ now)  
 
 # I am interested in...
-Low-level programming, OSes, compilers, emulators,  
+Low-level programming, compilers, LLVM  
 malware analysis, and pwnable  
 
 # Skills
 Rust, C, C++, C#(Unity), PHP,  
 Python, Assembly etc.
+  
+currently use Rails and Nuxt as work
 
 # Works
 PERVERSE, beautiful pazzle game, https://github.com/tamaroning/PERVERSE  
