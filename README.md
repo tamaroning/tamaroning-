@@ -29,7 +29,7 @@ LF is "  "(double space)
 CS student at Kyoto Univ. (April,2021 ~ now)  
 
 # I am interested in...
-Low-level programming, compilers, LLVM  
+Low-level programming, compilers, LLVM,  
 malware analysis, and pwnable  
 
 # Skills
