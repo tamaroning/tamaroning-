@@ -34,7 +34,7 @@ malware analysis, and pwnable
 
 # Skills
 Rust, C, C++, C#(Unity), PHP,  
-Python, Nuxt.js, Assembly etc.
+Python, Assembly etc.
   
 currently use Rails and Nuxt as work
 
