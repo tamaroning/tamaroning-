@@ -25,12 +25,10 @@ LF is "  "(double space)
 -->
 
 <span style="font-size: 200%;">I'm Tamaron.</span> 
-
-CS student at Kyoto Univ. (April,2021 ~ now)  
-
-# I am interested in...
-Low-level programming, compilers, LLVM,  
-malware analysis, and pwnable  
+I'm interested in
+- compilers, LLVM, 
+- low-level programming 
+- low-level security  
 
 # Skills
 Rust, C, C++, C#(Unity), PHP,  
