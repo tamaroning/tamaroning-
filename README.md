@@ -25,16 +25,11 @@ LF is "  "(double space)
 -->
 
 <span style="font-size: 200%;">I'm Tamaron.</span> 
+
 I'm interested in
 - compilers, LLVM, 
 - low-level programming 
 - low-level security  
-
-# Skills
-Rust, C, C++, C#(Unity), PHP,  
-Python, Assembly etc.
-  
-currently use Rails and Nuxt as work
 
 # Projects
 - ironcc, A small C compiler written in Rust, https://github.com/tamaroning/ironcc
@@ -42,6 +37,12 @@ currently use Rails and Nuxt as work
 - rust-kaleidoscope, Rust implementation of LLVM tutorial, https://github.com/tamaroning/rust-kaleidoscope
 - riscv-cpu, https://github.com/tamaroning/riscv-cpu
 - PERVERSE, Beautiful pazzle game, https://github.com/tamaroning/PERVERSE  
+
+# Skills
+Rust, C, C++, C#(Unity), PHP,  
+Python, Assembly etc.
+  
+currently use Rails and Nuxt as work
 
 <!--
 ![Tamaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaroning&show_icons=true&theme=radical)
