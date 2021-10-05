@@ -24,7 +24,7 @@ LF is "  "(double space)
 </p>
 -->
 
-<span style="font-size: 200%;">I'm Tamaron, CS student at Kyoto Univ. in Japan.</span> 
+<span style="font-size: 200%;">I'm Tamaron, 1st grade CS student at Kyoto Univ. in Japan.</span> 
 
 I'm interested in
 - compilers, LLVM, 
