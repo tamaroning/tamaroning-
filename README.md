@@ -37,7 +37,7 @@ I'm interested in
 - ironcc, A small C compiler written in Rust [new], https://github.com/tamaroning/ironcc
 - ccr, A toy C compiler written in Rust [old], https://github.com/tamaroning/ccr
 - rust-kaleidoscope, Rust implementation of LLVM tutorial, https://github.com/tamaroning/rust-kaleidoscope
-- nes-emu, NES (aka famicom) emulator
+- nes-emu, NES (aka famicom) emulator, https://github.com/tamaroning/nes-emu
 - riscv-cpu, https://github.com/tamaroning/riscv-cpu
 - PERVERSE, Beautiful pazzle game, https://github.com/tamaroning/PERVERSE  
 
