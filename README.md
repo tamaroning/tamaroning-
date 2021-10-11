@@ -24,7 +24,7 @@ LF is "  "(double space)
 </p>
 -->
 
-I'm Tamaron, 1st grade CS student at Kyoto Univ.  
+I'm Tamaron, 1st grade university student.  
 
 Currently working on [Coincheck](https://coincheck.com/) as software engineer.  
 
