@@ -26,7 +26,7 @@ LF is "  "(double space)
 
 I'm Tamaron, 1st grade university student.  
 
-Currently working on [Coincheck](https://coincheck.com/) as software engineer.  
+Currently working on [Coincheck](https://coincheck.com/) as a software engineer.  
 
 I'm interested in
 - compilers, LLVM, 
