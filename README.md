@@ -29,9 +29,9 @@ I'm Tamaron, 1st grade university student.
 Currently working on [Coincheck](https://coincheck.com/) as a software engineer.  
 
 I'm interested in
-- compilers, LLVM, 
-- low-level programming 
-- low-level security  
+- langugae processors,
+- low-level programming,
+- low-level security
 
 # Projects
 - ironcc, A small C compiler written in Rust [new], https://github.com/tamaroning/ironcc
