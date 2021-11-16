@@ -24,9 +24,7 @@ LF is "  "(double space)
 </p>
 -->
 
-I'm Tamaron, 1st grade university student.  
-
-Currently working on [Coincheck](https://coincheck.com/) as a software engineer.  
+I'm Tamaron, an undergraduate university student.  
 
 I'm interested in
 - langugae processors,
@@ -37,12 +35,6 @@ I'm interested in
 - ironcc, A small C compiler written in Rust [new], https://github.com/tamaroning/ironcc
 - nes-emu, NES (aka famicom) emulator, https://github.com/tamaroning/nes-emu
 - PERVERSE, Beautiful pazzle game, https://github.com/tamaroning/PERVERSE  
-
-# Skills
-Rust, C, C++, C#(Unity), PHP,  
-Python, Assembly etc.
-  
-currently use Rails and Nuxt as work
 
 <!--
 ![Tamaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaroning&show_icons=true&theme=radical)
