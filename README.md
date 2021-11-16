@@ -38,7 +38,7 @@ I'm interested in
 - nes-emu, NES (aka famicom) emulator, https://github.com/tamaroning/nes-emu
 - PERVERSE, Beautiful pazzle game, https://github.com/tamaroning/PERVERSE  
 
-For further information, see https://www.tamaroning.dev/vue
+For further information, see https://www.tamaron.dev/vue/
 
 <!--
 ![Tamaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaroning&show_icons=true&theme=radical)
