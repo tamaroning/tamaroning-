@@ -27,11 +27,13 @@ LF is "  "(double space)
 I'm Tamaron, an undergraduate university student.  
 
 I'm interested in
-- langugae processors,
-- low-level programming,
-- low-level security
+- compiler optimization
+- langugae processors
+- low-level programming
+- Software/hardware security
 
 # Projects
+- haribote-lang, A interpreter with static analysis and several optimization
 - ironcc, A small C compiler written in Rust [new], https://github.com/tamaroning/ironcc
 - nes-emu, NES (aka famicom) emulator, https://github.com/tamaroning/nes-emu
 - PERVERSE, Beautiful pazzle game, https://github.com/tamaroning/PERVERSE  
