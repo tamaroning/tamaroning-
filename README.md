@@ -33,7 +33,7 @@ I'm interested in
 - Software/hardware security
 
 # Projects
-- haribote-lang, A interpreter with static analysis and several optimization
+- haribote-lang, A interpreter with static analysis and several optimization, https://github.com/tamaroning/haribote-lang
 - ironcc, A small C compiler written in Rust [new], https://github.com/tamaroning/ironcc
 - nes-emu, NES (aka famicom) emulator, https://github.com/tamaroning/nes-emu
 - PERVERSE, Beautiful pazzle game, https://github.com/tamaroning/PERVERSE  
