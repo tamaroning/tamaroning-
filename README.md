@@ -33,13 +33,10 @@ I'm interested in
 - Low-level programming
 - Software/hardware security
 -->
-# Projects
-- haribote-lang, A interpreter with static analysis and several optimization, https://github.com/tamaroning/haribote-lang
-- ironcc, A small C compiler written in Rust [new], https://github.com/tamaroning/ironcc
-- nes-emu, NES (aka famicom) emulator, https://github.com/tamaroning/nes-emu
-- PERVERSE, Beautiful pazzle game, https://github.com/tamaroning/PERVERSE  
 
-See [my page](https://www.tamaron.dev/vue/)
+I'm currently studying type system.
+
+[my page](https://www.tamaron.dev/vue/)
 
 <!--
 ![Tamaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaroning&show_icons=true&theme=radical)
