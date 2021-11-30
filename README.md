@@ -17,24 +17,11 @@ LF is "  "(double space)
 
 -->
 
-<!--
-# About me
-
-<p align="left">
-  <img src="https://tamaroning.github.io/img/icon-600px.png" width="250" title="icon">
-</p>
--->
-<!--
-I'm Tamaron, an undergraduate university student.  
-
-I'm interested in
+I'm currently interested in
+- Type system
 - Compiler optimization
 - Langugae processors
 - Low-level programming
-- Software/hardware security
--->
-
-I'm currently studying type system.
 
 [my page](https://www.tamaron.dev/vue/)
 
