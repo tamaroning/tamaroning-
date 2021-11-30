@@ -23,7 +23,7 @@ LF is "  "(double space)
   <img src="https://tamaroning.github.io/img/icon-600px.png" width="250" title="icon">
 </p>
 -->
-
+<!--
 I'm Tamaron, an undergraduate university student.  
 
 I'm interested in
@@ -31,14 +31,14 @@ I'm interested in
 - Langugae processors
 - Low-level programming
 - Software/hardware security
-
+-->
 # Projects
 - haribote-lang, A interpreter with static analysis and several optimization, https://github.com/tamaroning/haribote-lang
 - ironcc, A small C compiler written in Rust [new], https://github.com/tamaroning/ironcc
 - nes-emu, NES (aka famicom) emulator, https://github.com/tamaroning/nes-emu
 - PERVERSE, Beautiful pazzle game, https://github.com/tamaroning/PERVERSE  
 
-For further information, see [my page](https://www.tamaron.dev/vue/)
+See [my page](https://www.tamaron.dev/vue/)
 
 <!--
 ![Tamaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaroning&show_icons=true&theme=radical)
