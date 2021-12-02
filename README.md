@@ -23,7 +23,7 @@ I'm currently interested in
 - Langugae processors
 - Low-level programming
 
-[my page](https://www.tamaron.dev/vue/)
+[my page](https://www.tamaron.dev/)
 
 <!--
 ![Tamaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaroning&show_icons=true&theme=radical)
