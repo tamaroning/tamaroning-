@@ -23,6 +23,11 @@ I'm currently interested in
 - Langugae processors
 - Low-level programming
 
+
+Now I'm working on [ceylon-lang](https://github.com/tamaroning/ceylon-lang),<br/>
+which is the type safe, fast, and minimal programmming language.
+
+
 [my page](https://www.tamaron.dev/)
 
 <!--
