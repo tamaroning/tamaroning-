@@ -20,7 +20,7 @@ LF is "  "(double space)
 I'm currently interested in
 - Type system
 - Compiler optimization
-- Langugae processors
+- Languae processors
 - Low-level programming
 
 
