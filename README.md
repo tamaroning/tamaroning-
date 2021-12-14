@@ -24,8 +24,8 @@ I'm currently interested in
 - Low-level programming
 
 
-Now I'm working on [ceylon-lang](https://github.com/tamaroning/ceylon-lang), which is<br/>
-the type safe, fast, and minimal programmming language.
+Now I'm working on [ceylon-lang](https://github.com/tamaroning/ceylon-lang), which is the type safe, <br/>
+fast, and scaleable programmming language.
 
 
 [my page](https://www.tamaron.dev/)
