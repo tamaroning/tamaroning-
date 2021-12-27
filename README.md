@@ -22,13 +22,9 @@ I'm currently interested in
 - Compiler optimization
 - Languae processors
 - Low-level programming
+- Concurrent programming
 
-
-Now I'm working on [ceylon-lang](https://github.com/tamaroning/ceylon-lang), which is the type safe, <br/>
-fast, and scaleable programmming language.
-
-
-[my page](https://www.tamaron.dev/)
+This is [my page](https://www.tamaron.dev/)
 
 <!--
 ![Tamaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaroning&show_icons=true&theme=radical)
