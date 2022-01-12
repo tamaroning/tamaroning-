@@ -18,10 +18,9 @@ LF is "  "(double space)
 -->
 
 I'm currently interested in
-- Asynchronous programming
 - Languae processors
 - Low-level programming
-- Concurrent programming
+- Asynchronous/Concurrent programming
 
 Here is [my page](https://www.tamaron.dev/)
 
