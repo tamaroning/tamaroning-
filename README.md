@@ -18,13 +18,12 @@ LF is "  "(double space)
 -->
 
 I'm currently interested in
-- Type system
-- Compiler optimization
+- Asynchronous programming
 - Languae processors
 - Low-level programming
 - Concurrent programming
 
-This is [my page](https://www.tamaron.dev/)
+Here is [my page](https://www.tamaron.dev/)
 
 <!--
 ![Tamaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaroning&show_icons=true&theme=radical)
