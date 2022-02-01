@@ -19,10 +19,9 @@ LF is "  "(double space)
 I'm an undergraduate student at Kyoto University. 
 
 I'm currently interested in
-- Language processors
+- Language processors (especially Rust!)
 - Low-level programming
 - Concurrent programming
-- Rust
 
 Here is [my page](https://www.tamaron.dev/)
 
