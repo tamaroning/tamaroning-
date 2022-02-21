@@ -19,11 +19,13 @@ LF is "  "(double space)
 I'm an undergraduate student at Kyoto University. 
 
 I'm currently interested in
-- Language processors (especially Rust!)
+- Compilers (frontend)
+- Type system
+- Programing language theory
 - Low-level programming
 - Concurrent programming
 
-Here is [my page](https://www.tamaron.dev/)
+For more information, visit [my page](https://www.tamaron.dev/).
 
 <!--
 ![Tamaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaroning&show_icons=true&theme=radical)
