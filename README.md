@@ -16,12 +16,11 @@ memo:
 LF is "  "(double space)
 -->
 
-I'm an undergraduate student at Kyoto University. 
+Undergraduate student at Kyoto University. 
 
 I'm currently interested in
-- Compilers (frontend)
+- Compilers
 - Type system
-- Programing language theory
 - Low-level programming
 - Concurrent programming
 
